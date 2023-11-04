@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/publicodes-evenements/static/css/main.e7811a61.css",
+    "main.js": "/publicodes-evenements/static/js/main.289e8688.js",
+    "index.html": "/publicodes-evenements/index.html",
+    "main.e7811a61.css.map": "/publicodes-evenements/static/css/main.e7811a61.css.map",
+    "main.289e8688.js.map": "/publicodes-evenements/static/js/main.289e8688.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7811a61.css",
+    "static/js/main.289e8688.js"
+  ]
+}
